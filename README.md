@@ -76,11 +76,11 @@ The system trains and validates on the following targeted datasets to ensure acc
 
 The final system is designed for real-time application deployment through two main interfaces:
 
-* 
+ 
 **Chrome Extension:** Extracts reviews directly from product pages, processes text and images via a backend API, and displays the Authenticity Score on the website.
 
 
-* 
+ 
 **Web Application:** A Flask or Streamlit interface where users can paste reviews, upload images, and receive a detailed breakdown of sentiment, AI detection, and image verification.
 
 
