@@ -4,7 +4,7 @@ AI-powered multilingual sentiment analysis and fake review detection system. Use
 
 ---
 
-Multilingual Sentiment Analysis And Fake Review Detection 
+
 
 ## Project Overview
 
@@ -87,19 +87,19 @@ The final system is designed for real-time application deployment through two ma
 
 ## Credits
 
-* 
+
 **Author:** Jayraj Patel (2427030610) 
 
 
-* 
+ 
 **Degree:** Bachelors of Technology in Computer Science and Engineering (2025-2026) 
 
 
-* 
+ 
 **Institution:** Manipal University Jaipur 
 
 
-* 
+ 
 **Supervisor:** Dr. Rishi Gupta 
 
 
